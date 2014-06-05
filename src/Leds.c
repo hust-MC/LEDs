@@ -61,4 +61,13 @@ static int leds_create_device(void)
 	return ret;
 }
 
+static int leds_init(void)
+{
+	int ret;
+	//创建设备文件
+	ret = leds_create_device();
+	printk(DEVIECE_NAME"\tinitialized\n");
+	return ret;
+}
 
+module_init(leds_init);
