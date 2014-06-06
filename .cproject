@@ -32,6 +32,7 @@
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/mach-s5pv210/include"/>
+									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung/include"/>
 								</option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.1765370295" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__KERNEL__=1"/>
@@ -55,6 +56,7 @@
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/mach-s5pv210/include"/>
+									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.774459071" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
 							</tool>
@@ -92,6 +94,7 @@
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/mach-s5pv210"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung"/>
+									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1957354809" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -113,6 +116,7 @@
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/include"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/mach-s5pv210"/>
 									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung"/>
+									<listOptionValue builtIn="false" value="/root/android/source_code/linux-3.0.8/arch/arm/plat-samsung/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1148973881" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
 							</tool>
